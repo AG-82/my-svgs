@@ -1,0 +1,13 @@
+https://cdn.jsdelivr.net/gh/AG-82/my-svgs@main/nyx/index.svg
+https://quantil.jsdelivr.net/gh/AG-82/my-svgs@main/nyx/index.svg
+https://gcore.jsdelivr.net/gh/AG-82/my-svgs@main/nyx/index.svg
+https://originfastly.jsdelivr.net/gh/AG-82/my-svgs@main/nyx/index.svg
+https://fastly.jsdelivr.net/gh/AG-82/my-svgs@main/nyx/index.svg
+https://jsdelivr.b-cdn.net/gh/AG-82/my-svgs@main/nyx/index.svg
+https://jsd.onmicrosoft.cn/gh/AG-82/my-svgs@main/nyx/index.svg
+https://cdn.jsdmirror.com/gh/AG-82/my-svgs@main/nyx/index.svg
+https://cdn.statically.io/gh/AG-82/my-svgs@main/nyx/index.svg
+https://cdn.staticdelivr.com/gh/AG-82/my-svgs/main/nyx/index.svg
+https://esm.sh/gh/AG-82/my-svgs@main/nyx/index.svg
+https://rawcdn.githack.com/AG-82/my-svgs/main/nyx/index.svg
+https://raw.githack.com/AG-82/my-svgs/main/nyx/index.svg
